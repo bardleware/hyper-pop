@@ -1,6 +1,6 @@
 // Constants
 const backgroundColor = `#37312f`;
-const foregroundColor = '#faa41a';
+const foregroundColor = '#fde1b4';
 const borderColor = '#faa41a';
 
 // Colors
@@ -14,7 +14,7 @@ const PINK = '#ff79c6';
 const LIGHT_PINK = '#FF9AC1';
 const CYAN = '#6FC1FF';
 const PURPLE = '#bd93f9';
-const LIGHT_GRAY = foregroundColor;
+const LIGHT_GRAY = '#faa41a';
 const MEDIUM_GRAY = '#676B79';
 const WHITE = '#FFFFFF';
 
